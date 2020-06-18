@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://cau.li/about/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cau.li/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cau.li/posts/</loc>
+    <lastmod>2020-06-11T21:54:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cau.li/posts/buzzfeed/</loc>
+    <lastmod>2020-06-11T21:54:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cau.li/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cau.li/tags/</loc>
+  </url>
+  
+</urlset>

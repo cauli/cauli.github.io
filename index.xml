@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cauli Tomaz</title>
+    <link>http://cau.li/</link>
+    <description>Recent content on Cauli Tomaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cau.li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://cau.li/about/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cau.li/about/</guid>
+      <description>Hi. This is an about page.</description>
+    </item>
+    
+    <item>
+      <title>TOP 10 UNICODE CHARACTERS THAT YOU DIDN&#39;T KNOW EXISTED</title>
+      <link>http://cau.li/posts/buzzfeed/</link>
+      <pubDate>Thu, 11 Jun 2020 21:54:46 +0200</pubDate>
+      
+      <guid>http://cau.li/posts/buzzfeed/</guid>
+      <description>﷽ ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM</description>
+    </item>
+    
+  </channel>
+</rss>
